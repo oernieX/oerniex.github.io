@@ -1,0 +1,9 @@
+{
+	"name": "rnDF001",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55d18174-54f4-4a7c-bd93-a90f231574bc",
+		"tenantId": "cbb18097-0040-4cb2-a45d-3e07f65456b1"
+	}
+}
